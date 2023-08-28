@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "emilykawaoka", "url": "http://github.com/emilykawaoka" },
       { "network": "linkedin", "username": "na", "url": "http://linkedin.com/in/emilykawaoka" },
-      { "network": "twitter", "username": "na", "url": "http://twitter.com/emilykawaoka" },
       { "network": "instagram", "username": "emilykawaoka", "url": "http://instagram.com/emilykawaoka" }
     ]
   },
