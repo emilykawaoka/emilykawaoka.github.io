@@ -1,6 +1,8 @@
+---
 layout: essay
 type: essay
 title: "E1 Technical Essay"
+# All dates must be YYYY-MM-DD format!
 date: 2023-09-10
 published: true
 labels:
