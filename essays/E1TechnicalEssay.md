@@ -1,3 +1,13 @@
+layout: essay
+type: essay
+title: "E1 Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-10
+published: true
+labels:
+  - MIS
+---
+
 Browser History 1
 Browser history 1 took me an hour for SD with 5 tries because it took me a while to get started and in the groove of setting up the server and everything. Organizing my thoughts and how I was going to attack the WOD took a while too. I DNFd the first few times because I did not run though the lab long enough and was still learning how to use the terminal effectively. I was able to get to standard time by practicing and writing the key points that I would get stuck on, so that when I would get stuck on it again I could physically reference something. Some of my attempts I just stopped half way because I knew that I could not recover from getting stuck on one question. What I learned from this WOD was the basic framing/ template of HTML, with the emmit broiler DOC [tab] and the framing of paragraphs and images. 
 
