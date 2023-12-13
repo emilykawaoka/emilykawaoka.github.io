@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "Check point assignment 3"
+# All dates must be YYYY-MM-DD format!
+date: 2023-12-12
+published: true
+labels:
+  - MIS
+---
+
 Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
 It will start from the index then click shop and on shop, it will show the three different products in the nav bar and cart and the option to log in. The cart will be able to adjust quantities and then go to invoice when logged in. 
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
