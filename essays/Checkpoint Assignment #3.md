@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Check point assignment 3"
+title: "Checkpoint assignment 3"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
@@ -10,22 +10,26 @@ labels:
 ---
 
 Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
+
 It will start from the index then click shop and on shop, it will show the three different products in the nav bar and cart and the option to log in. The cart will be able to adjust quantities and then go to invoice when logged in. 
 
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
+
 I will design my shopping cart as from products display it will post to add to the cart. I will have one products.html to display the three different groups. The add to cart will be a separate page where they can add or decrease the quantity and that page will also be the invoice. And the invoice will have the personalizations for who is logged in. The changes will be done through window onload functions. 
 
 Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, and what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
-What shopping cart data that will be stored in the session would be their add-to-cart data which will be handled on the server in an array. 
+
+The shopping cart data that will be stored in the session would be their add-to-cart data which will be handled on the server in an array. 
 {Shoes: [0. 3. 2], Apperal: [1, 0, 5]}
 
 How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
+
 I will use cookies to check if the user has logged in or registered. The user will have access to products and add them to the cart. But to purchase at the cart they will have to be either logged in or redirected to the login/ registration.  The issue with this is securing the data not to be altered by other users. 
-Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
-Upon successful login I will personalize it by having the logout button say the person's name and alter it to " successful log in {name} and log out successful log out {email}. 
 
 If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
+
 I am working alone. 
 
 How are you approaching Assignment 3 differently than Assignment 2?
+
 I am approaching assignment 3 differently than 2 by doing this layout to strategically think about how I will execute it and pre-thinking of the user issues that could come up. I am also going it as a simpler approach than just copy-paste and sift through that mess. 
