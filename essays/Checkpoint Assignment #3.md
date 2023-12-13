@@ -11,7 +11,7 @@ labels:
 
 Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
 
-click for screen cast [here](url)
+click for screencast [here]([url](https://drive.google.com/drive/folders/1PpmERPSFbqceKTdIoGb6ESgl1XppO1i-))
 
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
