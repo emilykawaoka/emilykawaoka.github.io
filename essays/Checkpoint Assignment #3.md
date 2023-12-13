@@ -11,8 +11,7 @@ labels:
 
 Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
 
-click for screencast [here]([url](https://drive.google.com/drive/folders/1PpmERPSFbqceKTdIoGb6ESgl1XppO1i-))
-
+click for screencast [here](https://drive.google.com/drive/folders/1PpmERPSFbqceKTdIoGb6ESgl1XppO1i-)
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
 I will design my shopping cart as from products display it will post to add to the cart. I will have one products.html to display the three different groups. The add to cart will be a separate page where they can add or decrease the quantity and that page will also be the invoice. the difference between an invoice and a cart is that the user would need to be logged in for the invoice and the personalization due to the cookies and for the invoice, the user would not have the option to alter quantities. The changes will be done through window onload functions. 
