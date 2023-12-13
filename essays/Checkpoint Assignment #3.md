@@ -11,11 +11,11 @@ labels:
 
 Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
 
-It will start from the index then click shop and on shop, it will show the three different products in the nav bar and cart and the option to log in. The cart will be able to adjust quantities and then go to invoice when logged in. 
+click for screen cast [here](url)
 
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
-I will design my shopping cart as from products display it will post to add to the cart. I will have one products.html to display the three different groups. The add to cart will be a separate page where they can add or decrease the quantity and that page will also be the invoice. And the invoice will have the personalizations for who is logged in. The changes will be done through window onload functions. 
+I will design my shopping cart as from products display it will post to add to the cart. I will have one products.html to display the three different groups. The add to cart will be a separate page where they can add or decrease the quantity and that page will also be the invoice. the difference between an invoice and a cart is that the user would need to be logged in for the invoice and the personalization due to the cookies and for the invoice, the user would not have the option to alter quantities. The changes will be done through window onload functions. 
 
 Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, and what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
 
@@ -24,7 +24,7 @@ The shopping cart data that will be stored in the session would be their add-to-
 
 How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 
-I will use cookies to check if the user has logged in or registered. The user will have access to products and add them to the cart. But to purchase at the cart they will have to be either logged in or redirected to the login/ registration.  The issue with this is securing the data not to be altered by other users. 
+I will use cookies to check if the user has logged in or registered. The user will have access to products and add them to the cart. But to purchase at the cart they will have to be either logged in or redirected to the login/ registration. this validation will be through if statements on the server when clicking the purchase button. The issue with this is securing the data not to be altered by other users. 
 
 If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
 
