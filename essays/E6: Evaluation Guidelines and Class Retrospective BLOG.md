@@ -14,11 +14,11 @@ My system is a store that specializes in shoes but also has various apparel and 
 
 Any notable shortcomings, bugs, problems, or additional features not implemented?
 
-A notable shortcoming is that my email does not work. I did a lot of research and added sufficient code but was not able to get it to work.
+A notable shortcoming is that my email does not work. I did a lot of research and added sufficient code but was not able to get it to work. I tried different hosts to test it but was unable to get it working on the uh server. although at one point I was able to get an email but it went to spam and did not notice it till I had changed my code already. 
 
 Describe what you are most proud of about your system:
 
-What I am most proud of with my application is how it looks and the feature of rating a product is pretty cool to me especially since i love reading reviews and like rating products in real life. I like that the nav bar adjusts even when there is a lot of text up there which is what I struggled with for a while, and I think that everything looks clean and simple. 
+What I am most proud of with my application is how it looks and the feature of rating a product is pretty cool to me especially since I love reading reviews and like rating products in real life. I like that the nav bar adjusts even when there is a lot of text up there which is what I struggled with for a while, and I think that everything looks clean and simple. 
 
 Describe what you are least happy with your system:
 
@@ -38,11 +38,11 @@ What worked well in this assignment was logging in and out of the user data. I f
 
 Describe what did not work well in doing this assignment.
 
-What did not work well in this assignment was the nodemailer. I examined the example code looked the internet, YouTube, and TikTok and was not able to figure out how to get it to email me the invoice. 
+What did not work well in this assignment was the nodemailer. I examined the example code on the internet, YouTube, and TikTok, and was not able to figure out how to get it to email me the invoice. 
 
 What did you learn from doing this assignment?
 
-What I learned from doing this assignment was cookies and sessions. How important they are in everyday applications. I also learned that to do something well the first step is to truly understand the concept before just throwing stuff in my code. 
+What I learned from doing this assignment was understanding the concept of something is very crucial before copying and pasting. And this applies to all classes where I need to learn the material and then try to apply my understanding. If I do it the other way then I just get more and more confused and would need to start from the beginning. 
 
 If you could go back in time and do things differently, what would you change?
 
